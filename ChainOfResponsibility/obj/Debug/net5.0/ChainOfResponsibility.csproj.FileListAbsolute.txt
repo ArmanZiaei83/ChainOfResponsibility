@@ -1,0 +1,16 @@
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.exe
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.deps.json
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.runtimeconfig.json
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.runtimeconfig.dev.json
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.dll
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net5.0\ref\ChainOfResponsibility.dll
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.pdb
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.csproj.AssemblyReference.cache
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.AssemblyInfo.cs
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.dll
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ref\ChainOfResponsibility.dll
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.pdb
+A:\Arman Folder\C#\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.genruntimeconfig.cache
